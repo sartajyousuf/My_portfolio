@@ -6,3 +6,42 @@ body{
     color:rgb(10, 226, 100)
 }
 
+#about{
+    font-weight: bold;
+    margin : 150px auto;
+    max-width: 450px;
+    text-align: center;
+}
+#about img{
+    border-radius:45%;
+    width: 165px;
+    margin-bottom: 10px;
+}
+#about .name{
+    font-size: 19px;
+}
+#about .vocation{
+    font-size: 17px;
+    color:rgba(134, 134, 134, 0.644);
+    margin-bottom: 10px;
+}
+
+#about .skills{
+    font-size: 16px;
+    color:rgb(12, 128, 60);
+    margin-bottom: 10px;
+}
+
+#about .email{
+    margin-top: 14px;
+    font-size: 21px;
+    color:rgb(134, 134, 134)
+
+}
+
+#about .icons{
+    margin-top: 20px;
+    font-size: 30px;
+
+
+}
