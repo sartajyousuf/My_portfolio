@@ -1,6 +1,7 @@
 body{
     font-family: "Arial", sana-serif;
     font-weight: bold;
+    text-align: center;
 }
 .font-primary{
     color:rgb(10, 226, 100)
@@ -14,7 +15,7 @@ body{
 }
 #about img{
     border-radius:45%;
-    width: 165px;
+    width: 200px;
     margin-bottom: 10px;
 }
 #about .name{
@@ -43,5 +44,48 @@ body{
     margin-top: 20px;
     font-size: 30px;
 
+
+}
+h2{
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 20px
+}
+
+a .font-black{
+    color: black !important;
+}
+
+#Project{
+    margin: 60px auto;
+    width: 80%;
+
+}
+#Project h2{
+    text-align: center;
+}
+
+#project .card img{
+    width: 100%;
+}
+
+.card-text{
+    font-size: large;
+    margin-top: 50px;
+    text-align: left;
+}
+
+.card-title{
+    font-weight: bold;
+    color:darkcyan;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+.btn-secondary{
+    font-weight: bold;
+    border-radius: 5%;
+    margin-left: 5%;
+    margin-top:20px ;
 
 }
